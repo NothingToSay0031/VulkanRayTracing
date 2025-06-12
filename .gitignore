@@ -1,0 +1,13 @@
+build/
+
+# VS code
+.vscode
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Shader
+*.spv
+*.cache
